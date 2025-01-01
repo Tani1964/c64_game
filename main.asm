@@ -1,6 +1,6 @@
+
+// $0801
+
 BasicUpstart2(main):
 
-main:
-
-gameloop:
-	jmp gameLoop
+// $0810
